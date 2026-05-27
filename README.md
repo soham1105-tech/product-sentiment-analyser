@@ -84,11 +84,11 @@ torch
 ### Option A: Local Runtime Execution
 
 1. Clone this repository locally on your device:
-```bash
-git clone [https://github.com/soham1105-tech/product-sentiment-analyser.git](https://github.com/soham1105-tech/product-sentiment-analyser.git)
-cd YOUR_REPOSITORY_NAME
 
-```
+git clone [https://github.com/soham1105-tech/product-sentiment-analyser.git](https://github.com/soham1105-tech/product-sentiment-analyser.git)
+cd product-sentiment-analyser
+
+
 
 
 2. Establish a structured virtual environment and resolve dependency flags:

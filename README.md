@@ -85,7 +85,7 @@ torch
 
 1. Clone this repository locally on your device:
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git)
+git clone [https://github.com/soham1105-tech/product-sentiment-analyser.git](https://github.com/soham1105-tech/product-sentiment-analyser.git)
 cd YOUR_REPOSITORY_NAME
 
 ```
